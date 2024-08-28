@@ -1,0 +1,26 @@
+# JetBrains IDE files
+.idea
+# Logs
+logs
+*.log
+npm-debug.log*
+.env
+
+# Dependency directories
+node_modules/
+
+# Sonar
+.scannerwork
+coverage
+test-report.xml
+
+dist/
+nbproject/
+/nbproject/private/
+
+storybook-static/
+playroom-static/
+
+#locks
+yarn.lock
+yarn-lock.json
